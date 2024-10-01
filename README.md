@@ -1,4 +1,4 @@
-# Bacterial-Promoters-Strength-Predictor
+# Bacterial Promoters Strength Predictor
 
 ## Project Overview
 This project aims to predict RNA transcription levels in *Escherichia coli* promoters using Deep Learning (specifically, 1D Convolutional Neural Networks). It focuses on analyzing promoter sequences and classifying them based on their transcription strength (Low, Medium, or Strong). 
